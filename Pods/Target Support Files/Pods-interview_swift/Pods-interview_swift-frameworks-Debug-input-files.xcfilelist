@@ -1,0 +1,6 @@
+${PODS_ROOT}/Target Support Files/Pods-interview_swift/Pods-interview_swift-frameworks.sh
+${BUILT_PRODUCTS_DIR}/Alamofire/Alamofire.framework
+${BUILT_PRODUCTS_DIR}/Reachability/Reachability.framework
+${BUILT_PRODUCTS_DIR}/SDWebImage/SDWebImage.framework
+${BUILT_PRODUCTS_DIR}/ZVActivityIndicatorView/ZVActivityIndicatorView.framework
+${BUILT_PRODUCTS_DIR}/ZVProgressHUD/ZVProgressHUD.framework

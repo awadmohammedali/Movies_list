@@ -1,0 +1,34 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Reachability (3.2)
+  - SDWebImage (5.10.2):
+    - SDWebImage/Core (= 5.10.2)
+  - SDWebImage/Core (5.10.2)
+  - ZVActivityIndicatorView (0.2.3)
+  - ZVProgressHUD (2.0.4):
+    - ZVActivityIndicatorView
+
+DEPENDENCIES:
+  - Alamofire
+  - Reachability
+  - SDWebImage
+  - ZVProgressHUD (~> 2.0.0)
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - Reachability
+    - SDWebImage
+    - ZVActivityIndicatorView
+    - ZVProgressHUD
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Reachability: 33e18b67625424e47b6cde6d202dce689ad7af96
+  SDWebImage: b969dcfc02c40a5da71eac0b03b8f1a0c794a86f
+  ZVActivityIndicatorView: 7e79667deaaeeb8f92bb8b4f6ac746e3d9c95058
+  ZVProgressHUD: 9b0e601218ee2bfc4c7637241d42d7e087f67ba9
+
+PODFILE CHECKSUM: 72df7efcae12a2e813a567e917faecb7d58b547d
+
+COCOAPODS: 1.9.3
